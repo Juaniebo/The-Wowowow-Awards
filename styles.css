@@ -1,0 +1,44 @@
+h1{
+    font-family:'Lobster';
+    text-align:center;
+    font-size:50px;
+    color:gold;
+    -webkit-text-stroke:1px black;
+}
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/000/106/870/original/free-strass-vector-gold-glitter-texture-on-black-background.jpg");   
+}
+h2{
+    font-family:'Lobster';
+    color:gold;
+    text-align:center;
+    font-size:35px;
+    -webkit-text-stroke:1px black;
+}
+body{
+    text-align:center;
+}
+p{
+    color:white;
+    font-family:'Lobster';
+    Font-size:20px;
+    -webkit-text-stroke:1px white;
+}
+h3{
+    color:gold;
+    font-family:'Lobster';
+    font-size:35px;
+    -webkit-text-stroke:1px black;
+}
+h4{
+    color:gold;
+    font-family:'Lobster';
+    font-size:35px;
+    -webkit-text-stroke:1px black;
+}
+h5{
+    color:gold;
+    font-family:'Lobster';
+    font-size:35px;
+    -webkit-text-stroke:1px black;
+}
